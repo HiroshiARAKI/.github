@@ -10,6 +10,3 @@ https://hiroshi.araki.tech
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiroshiARAKI&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiroshiARAKI&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HiroshiARAKI&theme=transparent)
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=HiroshiARAKI&theme=flat)
