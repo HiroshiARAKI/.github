@@ -9,9 +9,7 @@ https://hiroshi.araki.tech
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiroshiARAKI&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiroshiARAKI&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HiroshiARAKI&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HiroshiARAKI&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HiroshiARAKI&theme=transparent&utcOffset=9)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=HiroshiARAKI&theme=flat)
